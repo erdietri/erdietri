@@ -13,6 +13,8 @@ After abandoning a promising writing career at age 8, disappointing my parents b
 
 ### Languages and Tools
 
+### Shining Achievements
+
 ### Connect With Me
 
 ### Cisco DevNet Resources
