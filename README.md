@@ -25,11 +25,20 @@ After abandoning a promising writing career at age 8, disappointing my parents b
 <img src="https://github.com/erdietri/erdietri/assets/37638931/a9691fb2-b4a2-40fd-ade7-57cc512994a5" width="60" height="60">
 <img src="https://github.com/erdietri/erdietri/assets/37638931/e05414f0-67eb-4255-82fc-71ad692a20f5" width="60" height="60">
 
-### Shining Achievements
-
 ### Connect With Me
+📍 RTP, North Carolina, USA (and frequently travelling)
+<br>
+<br>
+<a href = "https://www.linkedin.com/in/erikadietrick/"><img src="https://github.com/erdietri/erdietri/assets/37638931/031981fe-edcf-4cb1-9926-b3acd3b97f9a" width="30" height="30"></a>
+
+
 
 ### Cisco DevNet Resources
+<a href = "https://developer.cisco.com/"><img src="https://github.com/erdietri/erdietri/assets/37638931/d4ac9e1d-1b73-4912-8692-d2cc6e504695" width="60" height="30"></a>
+<a href = "https://www.linkedin.com/company/cisco-devnet/"><img src="https://github.com/erdietri/erdietri/assets/37638931/031981fe-edcf-4cb1-9926-b3acd3b97f9a" width="30" height="30"></a>
+<a href = "https://www.youtube.com/@CiscoDevNetchannel"><img src="https://github.com/erdietri/erdietri/assets/37638931/09314e48-2e2a-4a06-a81c-acf2ec1221b1" width="30" height="30"></a>
+
+
 
 <!--
 **erdietri/erdietri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
