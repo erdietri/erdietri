@@ -28,7 +28,6 @@ After abandoning a promising writing career at age 8, disappointing my parents b
 <img src="https://github.com/erdietri/erdietri/assets/37638931/a9691fb2-b4a2-40fd-ade7-57cc512994a5" width="50" height="50">
 <img src="https://github.com/erdietri/erdietri/assets/37638931/e05414f0-67eb-4255-82fc-71ad692a20f5" width="50" height="50">
 
-![99655e9fe24eb0a7ea38de683cedb735](https://github.com/erdietri/erdietri/assets/37638931/211d5c2f-9e16-4ab0-8565-215082f37124)
 
 ### Connect With Me
 📍 RTP, North Carolina, USA (and frequently travelling)
