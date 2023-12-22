@@ -28,12 +28,14 @@ After abandoning a promising writing career at age 8, disappointing my parents b
 <img src="https://github.com/erdietri/erdietri/assets/37638931/a9691fb2-b4a2-40fd-ade7-57cc512994a5" width="50" height="50">
 <img src="https://github.com/erdietri/erdietri/assets/37638931/e05414f0-67eb-4255-82fc-71ad692a20f5" width="50" height="50">
 
+![99655e9fe24eb0a7ea38de683cedb735](https://github.com/erdietri/erdietri/assets/37638931/211d5c2f-9e16-4ab0-8565-215082f37124)
 
 ### Connect With Me
 📍 RTP, North Carolina, USA (and frequently travelling)
 <br>
 <br>
 <a href = "https://www.linkedin.com/in/erikadietrick/"><img src="https://github.com/erdietri/erdietri/assets/37638931/031981fe-edcf-4cb1-9926-b3acd3b97f9a" width="30" height="30"></a>
+<a href = "https://twitter.com/Erika_theDev"><img src="https://github.com/erdietri/erdietri/assets/37638931/211d5c2f-9e16-4ab0-8565-215082f37124" width="30" height="30"></a>
 <a href = "https://www.reddit.com/user/erika-the-dev/"><img src="https://github.com/erdietri/erdietri/assets/37638931/211baf56-412e-4d02-a0d6-b44aa177a857" width="30" height="30"></a>
 <a href = "https://stackoverflow.com/users/23134263/erika-dietrick?tab=profile"><img src="https://github.com/erdietri/erdietri/assets/37638931/75dd718f-7481-4fb6-9b59-8a19a75b3bf7" width="30" height="30"></a>
 
@@ -41,6 +43,7 @@ After abandoning a promising writing career at age 8, disappointing my parents b
 <a href = "https://developer.cisco.com/"><img src="https://github.com/erdietri/erdietri/assets/37638931/d4ac9e1d-1b73-4912-8692-d2cc6e504695" width="60" height="30"></a>
 <a href = "https://www.linkedin.com/company/cisco-devnet/"><img src="https://github.com/erdietri/erdietri/assets/37638931/031981fe-edcf-4cb1-9926-b3acd3b97f9a" width="30" height="30"></a>
 <a href = "https://www.youtube.com/@CiscoDevNetchannel"><img src="https://github.com/erdietri/erdietri/assets/37638931/09314e48-2e2a-4a06-a81c-acf2ec1221b1" width="30" height="30"></a>
+<a href = "https://twitter.com/CiscoDevNet"><img src="https://github.com/erdietri/erdietri/assets/37638931/211d5c2f-9e16-4ab0-8565-215082f37124" width="30" height="30"></a>
 <a href = "https://www.reddit.com/r/CiscoDevNet/"><img src="https://github.com/erdietri/erdietri/assets/37638931/211baf56-412e-4d02-a0d6-b44aa177a857" width="30" height="30"></a>
 
 <!--
