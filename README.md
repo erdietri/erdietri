@@ -33,6 +33,8 @@ After abandoning a promising writing career at age 8, disappointing my parents b
 <br>
 <br>
 <a href = "https://www.linkedin.com/in/erikadietrick/"><img src="https://github.com/erdietri/erdietri/assets/37638931/031981fe-edcf-4cb1-9926-b3acd3b97f9a" width="30" height="30"></a>
+<a href = "https://www.tiktok.com/@erika_thedev"><img src="https://github.com/erdietri/erdietri/assets/37638931/3fb7e883-ebce-43a1-b4e4-dacb1691be82" width="30" height="30"></a>
+<a href = "https://www.instagram.com/erika_thedev/"><img src="https://github.com/erdietri/erdietri/assets/37638931/0abfe0c4-bfba-4098-9460-ff57793b96ba" width="30" height="30"></a>
 <a href = "https://twitter.com/Erika_theDev"><img src="https://github.com/erdietri/erdietri/assets/37638931/211d5c2f-9e16-4ab0-8565-215082f37124" width="30" height="30"></a>
 <a href = "https://www.reddit.com/user/erika-the-dev/"><img src="https://github.com/erdietri/erdietri/assets/37638931/211baf56-412e-4d02-a0d6-b44aa177a857" width="30" height="30"></a>
 <a href = "https://stackoverflow.com/users/23134263/erika-dietrick?tab=profile"><img src="https://github.com/erdietri/erdietri/assets/37638931/75dd718f-7481-4fb6-9b59-8a19a75b3bf7" width="30" height="30"></a>
